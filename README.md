@@ -11,3 +11,8 @@ Here are some ideas to get you started:
 - Ask me about sword fighting or how to make complicated problems simple.
 - How to reach me: email me at frazerhaddow@icloud.com
 - Fun fact: I am currently one of the top swordfighters for larp in the UK
+
+  Past projects:
+  Group project between three people where me and one other did all the coding to create a booking system for a fake hotel
+  with systems to book tables depinding on other conditions. This is currently the project I am most proud off.
+  https://github.com/BHASVIC-ZacOlorenshaw25/wookie-bookie-BHASVIC-ZacOlorenshaw25-OllieHardens25-FrazerHaddow25.git
